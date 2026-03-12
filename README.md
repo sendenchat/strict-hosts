@@ -1,4 +1,4 @@
 # strict-hosts
 Strict hosts is a collection of ip ranges automatically updated for providers which are likely to restrict you if they receive an abuse complaint.
 
-## This is a mirror. View and contribute to the source code here: https://git.eplg.services/senden/strict-hosts
+## View and contribute to the source code here: https://git.eplg.services/senden/strict-hosts
